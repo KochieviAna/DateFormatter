@@ -1,12 +1,12 @@
 DateFormatterUtility is a Swift utility class designed to simplify date formatting and parsing tasks. It provides methods to create date formatters and convert date strings between different formats.
 
-# 📌 Features
+# Features
 Create Date Formatter: Initialize a DateFormatter with a specified format.
 Format Date Strings: Convert date strings from one format to another.
 🛠 Installation
 To integrate DateFormatterUtility into your project, you can manually add the DateFormatter.swift file to your Xcode project.
 
-# 🚀 Usage
+# Usage
 1️⃣ Import the Module
 Ensure that the DateFormatter.swift file is part of your project. Then, import it into the Swift file where you intend to use it:
 
